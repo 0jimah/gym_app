@@ -76,6 +76,7 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
             height: "56px",
             position: "absolute",
           }}
+          href='#exercises'
           onClick={handleSearch}
         >
           Search
